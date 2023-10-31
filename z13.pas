@@ -1,4 +1,4 @@
-program SwapMinMax;
+program z13;
 const
   N = 20;
 var

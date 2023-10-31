@@ -14,7 +14,6 @@ begin
   for i := 1 to N do
     write(numbers[i], ' ');
   writeln;
-
   // Вставляем 0 перед каждым положительным элементом
   for i := N downto 1 do
   begin
@@ -25,7 +24,6 @@ begin
       numbers[i] := 0;
     end;
   end;
-
   // Выводим измененный массив
   writeln('Массив с вставленными нулями:');
   for i := 1 to N do

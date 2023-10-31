@@ -1,4 +1,4 @@
-program InsertZeros;
+program z12;
 const
   N = 20;
 var
